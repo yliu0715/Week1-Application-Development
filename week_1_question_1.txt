@@ -1,0 +1,5 @@
+Q. Describe your favorite editor and explain two outstanding reasons why it is in your favor.
+
+A. Vim is my favorite editor with the reasons being that:
+	1. Vim is customizable and extensible. You can configure your vimrc file to a setting that you feel is comfortable to work in.
+	2. Vim is very efficient when it comes to editing your source codes by using different keyboard commands which makes it very fast to copy,paste,delete,update lines.
